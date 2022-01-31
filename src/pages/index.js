@@ -1,6 +1,6 @@
 import { useForm, Controller } from 'react-hook-form';
 import { Container, Input, TextField } from "@material-ui/core";
-import firebase from './config/firebase'
+import firebase from '../config/firebase'
 
 export default function Home() {
   const {
